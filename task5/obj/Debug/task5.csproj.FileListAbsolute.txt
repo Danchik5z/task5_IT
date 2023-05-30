@@ -1,0 +1,6 @@
+C:\Users\Даня\RiderProjects\task5\task5\bin\Debug\task5.exe
+C:\Users\Даня\RiderProjects\task5\task5\bin\Debug\task5.pdb
+C:\Users\Даня\RiderProjects\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\Даня\RiderProjects\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\Даня\RiderProjects\task5\task5\obj\Debug\task5.exe
+C:\Users\Даня\RiderProjects\task5\task5\obj\Debug\task5.pdb
